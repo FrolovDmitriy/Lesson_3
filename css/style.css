@@ -1,0 +1,31 @@
+a {
+   color: rgb(15, 129, 129);
+}
+
+.text {
+   color: rgb(190, 166, 24);
+}
+
+#stage_5 {
+   color: rgb(156, 60, 156);
+}
+
+.red {
+   color: red;
+}
+
+div .green {
+   color: green;
+}
+
+ul .green{
+   color: green;
+}
+
+main h3{
+   color: blue;
+}
+
+.text__gray > p{
+   color: gray;
+}
